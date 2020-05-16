@@ -1,0 +1,1511 @@
+﻿Log file open, 05/14/20 15:19:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Asteroids_2020
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.884037
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.194s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz, GPU: NVIDIA Quadro 4000
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.14-14.19.55:314][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.14-14.19.55:314][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.14-14.19.55:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:314][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.14-14.19.55:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.14-14.19.55:314][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.14-14.19.55:315][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.14-14.19.55:316][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:316][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:323][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-14.19.55:323][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.14-14.19.55:323][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:323][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.14-14.19.55:323][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:323][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-14.19.55:323][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.14-14.19.55:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.14-14.19.55:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-14.19.55:326][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.14-14.19.55:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.14-14.19.55:327][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-14.19.55:327][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.14-14.19.55:365][  0]LogHAL: Display: Platform has ~ 32 GB [34315362304 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.14-14.19.55:365][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.14-14.19.55:365][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.14-14.19.55:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-14.19.55:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.14-14.19.55:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.14-14.19.55:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.14-14.19.55:367][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.14-14.19.55:368][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.14-14.19.55:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.14-14.19.55:368][  0]LogInit: Computer: DESKTOP-MENUKF2
+[2020.05.14-14.19.55:368][  0]LogInit: User: admin
+[2020.05.14-14.19.55:368][  0]LogInit: CPU Page size=4096, Cores=12
+[2020.05.14-14.19.55:368][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.14-14.19.55:368][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.05.14-14.19.55:368][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.14-14.19.55:368][  0]LogMemory: Process Physical Memory: 107.79 MB used, 107.79 MB peak
+[2020.05.14-14.19.55:368][  0]LogMemory: Process Virtual Memory: 104.22 MB used, 104.22 MB peak
+[2020.05.14-14.19.55:368][  0]LogMemory: Physical Memory: 6013.74 MB used,  26711.94 MB free, 32725.68 MB total
+[2020.05.14-14.19.55:368][  0]LogMemory: Virtual Memory: 4715.60 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2020.05.14-14.19.55:399][  0]LogInit: Using OS detected language (en-US).
+[2020.05.14-14.19.55:399][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.14-14.19.55:401][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.14-14.19.56:035][  0]LogStreaming: Display: Took  0.636s to InitEngineTextLocalization.
+[2020.05.14-14.19.56:036][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.14-14.19.56:089][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.14-14.19.56:089][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.14-14.19.56:427][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-14.19.56:427][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.14-14.19.56:464][  0]LogD3D11RHI:    0. 'NVIDIA Quadro 4000' (Feature Level 11_0)
+[2020.05.14-14.19.56:464][  0]LogD3D11RHI:       1936/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.14-14.19.56:469][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.14-14.19.56:469][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.14-14.19.56:469][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.14-14.19.56:479][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.14-14.19.56:479][  0]LogD3D11RHI:     GPU DeviceId: 0x6dd (for the marketing name, search the web for "GPU Device Id")
+[2020.05.14-14.19.56:479][  0]LogWindows: EnumDisplayDevices:
+[2020.05.14-14.19.56:479][  0]LogWindows:    0. 'NVIDIA Quadro 4000' (P:1 D:1)
+[2020.05.14-14.19.56:479][  0]LogWindows:    1. 'NVIDIA Quadro 4000' (P:0 D:0)
+[2020.05.14-14.19.56:480][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2020.05.14-14.19.56:480][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro 4000
+[2020.05.14-14.19.56:480][  0]LogD3D11RHI:   Driver Version: 353.62 (internal:10.18.13.5362, unified:353.62)
+[2020.05.14-14.19.56:480][  0]LogD3D11RHI:      Driver Date: 7-22-2015
+[2020.05.14-14.19.56:480][  0]LogRHI: Texture pool is 1355 MB (70% of 1936 MB)
+[2020.05.14-14.19.56:507][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2020.05.14-14.19.56:507][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2020.05.14-14.19.56:507][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.14-14.19.56:532][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.14-14.19.57:038][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.14-14.19.57:063][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.14-14.19.57:087][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.14-14.19.57:110][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.14-14.19.57:134][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.14-14.19.57:157][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.14-14.19.57:181][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.14-14.19.57:206][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.14-14.19.57:217][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:357][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.14-14.19.57:360][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.14-14.19.57:443][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.14-14.19.57:443][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.14-14.19.57:486][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.14-14.19.57:486][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.14-14.19.57:508][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.14-14.19.57:530][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.14-14.19.57:552][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.14-14.19.57:575][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.14-14.19.57:656][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.14-14.19.57:656][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.14-14.19.57:656][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.14-14.19.57:754][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Intermediate/Shaders/WorkingDirectory/10816/).
+[2020.05.14-14.19.57:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/0764915D4C436A3D3D9623A71D3EBEC5/'.
+[2020.05.14-14.19.57:758][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.14-14.19.57:758][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.14-14.19.57:758][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.14-14.19.58:693][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.14-14.19.58:771][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.14-14.19.58:771][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.14-14.19.58:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.14-14.19.58:771][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.14-14.19.58:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-14.19.58:772][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.14-14.19.58:798][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.14-14.19.58:798][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-14.19.58:798][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.14-14.19.58:811][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.14-14.19.58:811][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.14-14.19.58:811][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.14-14.19.58:851][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.14-14.19.58:854][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.14-14.19.58:855][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.14-14.19.58:988][  0]LogAssetRegistry: FAssetRegistry took 0.0429 seconds to start up
+[2020.05.14-14.19.59:672][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-14.19.59:996][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.14-14.20.00:003][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.14-14.20.00:003][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.14-14.20.00:003][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.14-14.20.00:003][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.14-14.20.00:034][  0]LogNetVersion: Asteroids_2020 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1957075933)
+[2020.05.14-14.20.00:996][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.179909 seconds
+[2020.05.14-14.20.01:004][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.14-14.20.01:004][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.05.14-14.20.01:004][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.14-14.20.01:987][  0]LogWmfMedia: Failed to load mf.dll
+[2020.05.14-14.20.01:987][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2020.05.14-14.20.01:996][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2020.05.14-14.20.01:997][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2020.05.14-14.20.01:997][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2020.05.14-14.20.02:402][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.14-14.20.02:419][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.14-14.20.03:555][  0]SourceControl: Source control is disabled
+[2020.05.14-14.20.03:556][  0]SourceControl: Source control is disabled
+[2020.05.14-14.20.03:558][  0]SourceControl: Source control is disabled
+[2020.05.14-14.20.03:560][  0]SourceControl: Source control is disabled
+[2020.05.14-14.20.03:840][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.14-14.20.03:953][  0]LogOcInput: OculusInput pre-init called
+[2020.05.14-14.20.04:169][  0]LogEngine: Initializing Engine...
+[2020.05.14-14.20.04:171][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-14.20.04:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.14-14.20.04:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.14-14.20.04:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.14-14.20.04:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.14-14.20.04:625][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.14-14.20.04:646][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.14-14.20.04:666][  0]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-14.20.04:692][  0]LogInit: FAudioDevice initialized.
+[2020.05.14-14.20.04:693][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.14-14.20.04:852][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.14-14.20.04:870][  0]LogInit: Texture streaming: Enabled
+[2020.05.14-14.20.04:914][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.14-14.20.04:936][  0]LogInit: Transaction tracking system initialized
+[2020.05.14-14.20.04:976][  0]BlueprintLog: New page: Editor Load
+[2020.05.14-14.20.05:108][  0]LocalizationService: Localization service is disabled
+[2020.05.14-14.20.05:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/' took 0.03s
+[2020.05.14-14.20.05:934][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.14-14.20.05:934][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.14-14.20.05:934][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.14-14.20.05:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.14-14.20.05:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.14-14.20.05:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.14-14.20.05:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.14-14.20.06:154][  0]SourceControl: Source control is disabled
+[2020.05.14-14.20.06:155][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-14.20.06:156][  0]LightingResults: New page: Lighting Build
+[2020.05.14-14.20.06:160][  0]MapCheck: New page: Map Check
+[2020.05.14-14.20.06:160][  0]LightingResults: New page: Lighting Build
+[2020.05.14-14.20.08:169][  0]LogTexture: Display: Building textures: Resume_Hovered_00 (BGRA8, 397X51)
+[2020.05.14-14.20.08:169][  0]LogTexture: Display: Building textures: Resume_Clicked_00 (BGRA8, 397X51)
+[2020.05.14-14.20.08:169][  0]LogTexture: Display: Building textures: Resume_00 (BGRA8, 397X51)
+[2020.05.14-14.20.08:169][  0]LogTexture: Display: Building textures: Options_Hovered_00 (BGRA8, 414X51)
+[2020.05.14-14.20.10:924][  0]LogTexture: Display: Building textures: Options_00 (BGRA8, 414X51)
+[2020.05.14-14.20.10:924][  0]LogTexture: Display: Building textures: Exit_Hovered_00 (BGRA8, 204X51)
+[2020.05.14-14.20.10:924][  0]LogTexture: Display: Building textures: Exit_00 (BGRA8, 204X51)
+[2020.05.14-14.20.10:924][  0]LogTexture: Display: Building textures: Exit_Clicked_00 (BGRA8, 204X51)
+[2020.05.14-14.20.10:924][  0]LogTexture: Display: Building textures: Options_Clicked_00 (BGRA8, 414X51)
+[2020.05.14-14.20.10:924][  0]LogTexture: Display: Building textures: Pause_Menu (AutoDXT, 1920X1080)
+[2020.05.14-14.20.11:946][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-14.20.11:982][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-14.20.12:086][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-14.20.12:087][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.386ms to complete.
+[2020.05.14-14.20.12:087][  0]LogFileHelpers: Loading map 'Minimal_Default' took 5.932
+[2020.05.14-14.20.12:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.20.12:237][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.20.12:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.20.12:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.20.12:278][  0]LogCollectionManager: Loaded 0 collections in 0.002532 seconds
+[2020.05.14-14.20.12:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Collections/' took 0.01s
+[2020.05.14-14.20.12:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/Developers/admin/Collections/' took 0.00s
+[2020.05.14-14.20.12:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/Collections/' took 0.01s
+[2020.05.14-14.20.12:310][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.14-14.20.12:328][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2660 classes and 625 folders.
+[2020.05.14-14.20.12:338][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.14-14.20.12:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-14.20.12:422][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.14-14.20.12:431][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.05.14-14.20.12:473][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.14-14.20.12:476][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.14-14.20.12:485][  0]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.14-14.20.12:630][  0]LogRenderer: Reallocating scene render targets to support 1216x576 Format 10 NumSamples 1 (Frame:1).
+[2020.05.14-14.20.12:923][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.14-14.20.12:923][  0]LogLoad: (Engine Initialization) Total time: 21.29 seconds
+[2020.05.14-14.20.12:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.14-14.20.13:004][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.14-14.20.13:067][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.14-14.20.14:391][ 13]LogAssetRegistry: Asset discovery search completed in 15.4253 seconds
+[2020.05.14-14.20.14:394][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.14-14.20.14:394][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2020.05.14-14.20.19:180][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-14.20.19:269][248]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-14.20.19:274][248]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-14.20.26:392][631]LogEditorViewport: Clicking on Actor (LMB): Asteroid_C (Asteroid)
+[2020.05.14-14.20.28:049][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InvisibleFloor)
+[2020.05.14-14.20.29:078][753]LogEditorViewport: Clicking on Actor (LMB): Asteroid_C (Asteroid)
+[2020.05.14-14.20.30:009][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InvisibleFloor)
+[2020.05.14-14.20.31:122][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-14.20.33:447][907]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.14-14.20.33:927][907]LogTexture: Display: Building textures: Button_Hovered_00 (BGRA8, 171X171)
+[2020.05.14-14.20.33:927][907]LogTexture: Display: Building textures: Button_Clicked_00 (BGRA8, 171X171)
+[2020.05.14-14.20.33:927][907]LogTexture: Display: Building textures: ShipHeavy (BGRA8, 954X738)
+[2020.05.14-14.20.33:927][907]LogTexture: Display: Building textures: Button_Default_00 (BGRA8, 171X171)
+[2020.05.14-14.20.33:964][907]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.05.14-14.20.34:083][907]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.14-14.20.34:083][907]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.05.14-14.20.34:083][907]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.14-14.20.34:083][907]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.14-14.20.34:083][907]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.14-14.20.34:083][907]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.14-14.20.34:083][907]LogSkeletalMesh: Building Skeletal Mesh Shopkeeper_master_rig...
+[2020.05.14-14.20.34:249][907]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/IndividualFolders/Lewis_Clark/ShopKeeper/Shopkeeper_master_rig.Shopkeeper_master_rig
+[2020.05.14-14.20.34:475][907]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.05.14-14.20.34:645][907]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop
+[2020.05.14-14.20.34:736][907]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Lewis_Clark/LC_L_Shop.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-14.20.34:736][907]LightingResults: New page: Lighting Build
+[2020.05.14-14.20.34:737][907]LoadErrors: New page: Loading map: LC_L_Shop.umap
+[2020.05.14-14.20.34:740][907]MapCheck: New page: Map Check
+[2020.05.14-14.20.34:740][907]LightingResults: New page: Lighting Build
+[2020.05.14-14.20.34:872][907]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-14.20.35:052][907]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-14.20.35:055][907]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.801ms to complete.
+[2020.05.14-14.20.35:055][907]LogFileHelpers: Loading map 'LC_L_Shop' took 0.321
+[2020.05.14-14.21.26:860][527]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Shopkeeper_master_rig)
+[2020.05.14-14.21.29:013][546]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Shopkeeper_master_rig)
+[2020.05.14-14.21.52:319][796]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.05.14-14.24.34:022][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-14.24.39:564][516]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_PauseMenu.TW_W_PauseMenu
+[2020.05.14-14.24.40:533][516]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2020.05.14-14.24.42:387][516]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.14-14.25.00:150][692]LogSlate: Window 'TW_W_PauseMenu' being destroyed
+[2020.05.14-14.25.00:164][692]LogSlate: Window 'TW_W_PauseMenu' being destroyed
+[2020.05.14-14.33.23:679][249]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2.TW_W_StationShop_2
+[2020.05.14-14.33.31:022][852]LogSlate: Took 0.000720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.14-14.33.59:555][569]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2.TW_W_StationShop_2
+[2020.05.14-14.37.36:839][746]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.14-14.37.36:844][746]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.14-14.47.27:403][224]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.14-14.48.04:652][164]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.14-14.48.04:808][165]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Asteroids2020
+[2020.05.14-14.48.04:808][165]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.05.14-14.48.04:808][165]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2020.05.14-14.48.04:808][165]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.05.14-14.48.04:808][165]LogTemp: BranchPath = DESKTOP-MENUKF2/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-MENUKF2/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2020.05.14-14.48.04:840][166]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.05.14-14.48.12:244][237]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.14-14.48.25:763][982]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IndividualFolders/Dan_Jones/Select_Instance.Select_Instance
+[2020.05.14-14.49.36:849][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.091
+[2020.05.14-14.49.36:853][799]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/TW_W_Saving_Mechanism] ([1] browsable assets)...
+[2020.05.14-14.49.36:853][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/TW_W_Saving_Mechanism]
+[2020.05.14-14.49.36:869][799]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/TW_W_Saving_Mechanism_Auto1D4AA4FEA46D31479FF79DB9810196808.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/TW_W_Saving_Mechanism_Auto1.uasset'
+[2020.05.14-14.49.36:871][799]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.05.14-14.50.51:714][ 22]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/Item_Con/Item_Conformation.Item_Conformation
+[2020.05.14-14.51.04:960][163]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/Shop_Descriptions/Item_Description_five.Item_Description_five
+[2020.05.14-14.57.28:492][577]BlueprintLog: New page: Compile Item_Conformation
+[2020.05.14-14.57.28:584][577]LogBlueprint: Error: [Compiler Item_Conformation] The property associated with  Upgrade 1 Purchased  could not be found in '/Game/IndividualFolders/Tom_Wych/User_Interface/Item_Con/Item_Conformation.Item_Conformation_C'
+[2020.05.14-14.57.28:955][577]LogBlueprint: Warning: [Compiler Item_Conformation] [2257.32] Compile of Item_Conformation failed. 1 Fatal Issue(s) 0 Warning(s) [in 462 ms] (/Game/IndividualFolders/Tom_Wych/User_Interface/Item_Con/Item_Conformation.Item_Conformation)
+[2020.05.14-14.57.44:072][933]BlueprintLog: New page: Compile Select_Instance
+[2020.05.14-14.57.45:925][950]BlueprintLog: New page: Compile Item_Conformation
+[2020.05.14-14.57.55:492][ 69]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Shopkeeper_master_rig)
+[2020.05.14-14.57.57:688][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-14.58.29:240][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-14.58.36:340][524]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-14.58.42:413][591]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-14.58.42:510][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.05.14-14.58.42:510][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-14.58.42:511][591]PIE: New page: PIE session: LC_L_Shop (14 May 2020 16:58:42)
+[2020.05.14-14.58.42:528][591]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.05.14-14.58.42:657][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128271s)
+[2020.05.14-14.58.42:658][591]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.05.14-14.58.42:658][591]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2020.05.14-14.58.42:658][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.130219s)
+[2020.05.14-14.58.42:789][591]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-14.58.42:819][591]LogInit: FAudioDevice initialized.
+[2020.05.14-14.58.42:871][591]LogLoad: Game class is 'ShopGamemode_C'
+[2020.05.14-14.58.42:878][591]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.05.14-15.58.42
+[2020.05.14-14.58.42:880][591]LogWorld: Bringing up level for play took: 0.007947
+[2020.05.14-14.58.42:908][591]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.05.14-14.58.42:911][591]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop 0.08
+[2020.05.14-14.58.42:912][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.05.14-14.59.03:695][936]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2020.05.14-14.59.03:750][936]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default
+[2020.05.14-14.59.03:967][936]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-14.59.03:967][936]LogLoad: Game class is 'GameMode'
+[2020.05.14-14.59.03:987][936]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-15.59.03
+[2020.05.14-14.59.03:991][936]LogWorld: Bringing up level for play took: 0.022496
+[2020.05.14-14.59.04:010][936]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-14.59.04:011][936]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-14.59.04:011][936]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-14.59.04:015][936]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello
+[2020.05.14-14.59.04:015][936]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-14.59.04:015][936]LogLoad: Took 0.265153 seconds to LoadMap(/Game/StarterContent/Maps/Minimal_Default)
+[2020.05.14-14.59.06:513][ 77]LogBlueprintUserMessages: [Ship_2] 80.0
+[2020.05.14-14.59.06:513][ 77]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_0] Hit
+[2020.05.14-14.59.07:164][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.05.14-14.59.07:164][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.59.07:213][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-14.59.07:213][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.05.14-14.59.07:314][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.59.07:352][117]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.05.14-14.59.17:601][377]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.05.14-14.59.17:612][377]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor
+[2020.05.14-14.59.19:476][377]LogSlate: Window 'Save Content' being destroyed
+[2020.05.14-14.59.19:581][377]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Select_Instance31BF3807469F1C2906DFEAAC0C0D2118.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Dan_Jones/Select_Instance.uasset'
+[2020.05.14-14.59.19:773][377]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Item_ConformationD87932934F37B7EBDAA639B4E5CBD4D5.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/User_Interface/Item_Con/Item_Conformation.uasset'
+[2020.05.14-14.59.19:784][377]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/Shop_Vendor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-14.59.19:784][377]LightingResults: New page: Lighting Build
+[2020.05.14-14.59.19:786][377]LoadErrors: New page: Loading map: Shop_Vendor.umap
+[2020.05.14-14.59.19:793][377]MapCheck: New page: Map Check
+[2020.05.14-14.59.19:793][377]LightingResults: New page: Lighting Build
+[2020.05.14-14.59.19:907][377]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-14.59.20:146][377]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-14.59.20:151][377]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.103ms to complete.
+[2020.05.14-14.59.20:151][377]LogFileHelpers: Loading map 'Shop_Vendor' took 0.371
+[2020.05.14-14.59.22:317][465]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor
+[2020.05.14-14.59.31:134][841]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-14.59.31:203][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.05.14-14.59.31:204][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-14.59.31:204][841]PIE: New page: PIE session: Shop_Vendor (14 May 2020 16:59:31)
+[2020.05.14-14.59.31:206][841]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.05.14-14.59.31:209][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002652s)
+[2020.05.14-14.59.31:210][841]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.05.14-14.59.31:210][841]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2020.05.14-14.59.31:210][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.004055s)
+[2020.05.14-14.59.31:298][841]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-14.59.31:315][841]LogInit: FAudioDevice initialized.
+[2020.05.14-14.59.31:351][841]LogLoad: Game class is 'GameMode'
+[2020.05.14-14.59.31:352][841]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.05.14-15.59.31
+[2020.05.14-14.59.31:353][841]LogWorld: Bringing up level for play took: 0.000993
+[2020.05.14-14.59.31:366][841]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-14.59.31:366][841]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-14.59.31:366][841]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-14.59.31:372][841]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-14.59.31:372][841]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 0.54
+[2020.05.14-14.59.31:372][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.05.14-14.59.34:910][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-14.59.47:601][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.05.14-14.59.47:602][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.59.47:651][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-14.59.47:652][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.05.14-14.59.47:765][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-14.59.47:789][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.05.14-14.59.53:261][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.00.06:171][977]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/Item_Con/Item_Conformation1.Item_Conformation1
+[2020.05.14-15.00.42:440][740]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.00.42:466][740]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.05.14-15.00.42:546][740]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-15.00.42:546][740]LightingResults: New page: Lighting Build
+[2020.05.14-15.00.42:547][740]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2020.05.14-15.00.42:646][740]MapCheck: New page: Map Check
+[2020.05.14-15.00.42:646][740]LightingResults: New page: Lighting Build
+[2020.05.14-15.00.42:753][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-15.00.42:933][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-15.00.42:935][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.273ms to complete.
+[2020.05.14-15.00.42:935][740]LogFileHelpers: Loading map 'Minimal_Default' took 0.390
+[2020.05.14-15.00.49:152][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InvisibleFloor)
+[2020.05.14-15.00.49:611][ 74]LogEditorViewport: Clicking on Actor (LMB): Shop_Collsion_C (Shop_Collsion)
+[2020.05.14-15.00.51:838][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-15.00.52:447][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-15.00.52:450][240]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IndividualFolders/Tom_Wych/Shop_Collsion.Shop_Collsion
+[2020.05.14-15.01.19:658][467]BlueprintLog: New page: Compile Shop_Collsion
+[2020.05.14-15.01.34:107][113]BlueprintLog: New page: Compile Shop_Collsion
+[2020.05.14-15.01.39:178][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.01.39:224][331]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-15.01.39:312][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.01.39:313][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-15.01.39:313][331]PIE: New page: PIE session: Minimal_Default (14 May 2020 17:01:39)
+[2020.05.14-15.01.39:314][331]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.05.14-15.01.39:329][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014783s)
+[2020.05.14-15.01.39:330][331]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.01.39:330][331]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2020.05.14-15.01.39:330][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016336s)
+[2020.05.14-15.01.39:413][331]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-15.01.39:433][331]LogInit: FAudioDevice initialized.
+[2020.05.14-15.01.39:465][331]LogLoad: Game class is 'GameMode'
+[2020.05.14-15.01.39:469][331]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-16.01.39
+[2020.05.14-15.01.39:472][331]LogWorld: Bringing up level for play took: 0.005768
+[2020.05.14-15.01.39:485][331]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.01.39:485][331]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.01.39:486][331]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.01.39:489][331]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello
+[2020.05.14-15.01.39:489][331]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.01.39:489][331]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.657
+[2020.05.14-15.01.39:489][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.01.40:510][385]LogScript: Warning: Accessed None trying to read property Ship Movement_Sounds
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.01.40:510][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ship Movement_Sounds". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.01.41:408][439]LogScript: Warning: Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.01.41:409][439]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.01.41:895][468]LogScript: Warning: Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0250
+[2020.05.14-15.01.41:895][468]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.01.47:743][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.01.56:372][312]LogScript: Warning: Attempted to access AudioComponent_2 via property Ship Movement_Sounds, but AudioComponent_2 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0341
+[2020.05.14-15.01.56:372][312]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_2 via property Ship Movement_Sounds, but AudioComponent_2 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.01.56:980][349]LogScript: Warning: Attempted to access AudioComponent_3 via property Ship Movement_Sounds, but AudioComponent_3 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.01.56:980][349]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_3 via property Ship Movement_Sounds, but AudioComponent_3 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.01.57:468][378]LogScript: Warning: Attempted to access AudioComponent_4 via property Ship Movement_Sounds, but AudioComponent_4 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0250
+[2020.05.14-15.01.57:468][378]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_4 via property Ship Movement_Sounds, but AudioComponent_4 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.02.18:355][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.02.18:355][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.02.18:402][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-15.02.18:402][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.02.18:489][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.02.18:557][555]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.05.14-15.02.21:823][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.05.05:094][691]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.10.49:285][288]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.10.51:532][384]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-15.10.51:646][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.10.51:646][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-15.10.51:646][384]PIE: New page: PIE session: Minimal_Default (14 May 2020 17:10:51)
+[2020.05.14-15.10.51:647][384]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.05.14-15.10.51:662][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014490s)
+[2020.05.14-15.10.51:663][384]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.10.51:663][384]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2020.05.14-15.10.51:663][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015887s)
+[2020.05.14-15.10.51:770][384]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-15.10.51:788][384]LogInit: FAudioDevice initialized.
+[2020.05.14-15.10.51:822][384]LogLoad: Game class is 'GameMode'
+[2020.05.14-15.10.51:826][384]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-16.10.51
+[2020.05.14-15.10.51:829][384]LogWorld: Bringing up level for play took: 0.005824
+[2020.05.14-15.10.51:843][384]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.10.51:843][384]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.10.51:843][384]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.10.51:847][384]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello
+[2020.05.14-15.10.51:847][384]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.10.51:847][384]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.015
+[2020.05.14-15.10.51:847][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.10.52:581][423]LogScript: Warning: Accessed None trying to read property Ship Movement_Sounds
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.10.52:581][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ship Movement_Sounds". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.10.53:080][453]LogScript: Warning: Accessed None trying to read property Ship Movement_Sounds
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0250
+[2020.05.14-15.10.53:080][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ship Movement_Sounds". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.10.54:364][530]LogScript: Warning: Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0250
+[2020.05.14-15.10.54:364][530]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.10.54:547][541]LogScript: Warning: Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.10.54:547][541]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.10.55:047][571]LogScript: Warning: Attempted to access AudioComponent_1 via property Ship Movement_Sounds, but AudioComponent_1 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0250
+[2020.05.14-15.10.55:047][571]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_1 via property Ship Movement_Sounds, but AudioComponent_1 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.10.55:829][618]LogScript: Warning: Attempted to access AudioComponent_2 via property Ship Movement_Sounds, but AudioComponent_2 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.10.55:830][618]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_2 via property Ship Movement_Sounds, but AudioComponent_2 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.10.57:354][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.11.04:508][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.11.05:570][202]LogScript: Warning: Attempted to access AudioComponent_3 via property Ship Movement_Sounds, but AudioComponent_3 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.11.05:571][202]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_3 via property Ship Movement_Sounds, but AudioComponent_3 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.11.07:227][301]LogScript: Warning: Attempted to access AudioComponent_5 via property Ship Movement_Sounds, but AudioComponent_5 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:006B
+[2020.05.14-15.11.07:227][301]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_5 via property Ship Movement_Sounds, but AudioComponent_5 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.11.08:211][360]LogScript: Warning: Attempted to access AudioComponent_6 via property Ship Movement_Sounds, but AudioComponent_6 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.11.08:211][360]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_6 via property Ship Movement_Sounds, but AudioComponent_6 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.11.08:263][363]LogScript: Warning: Attempted to access AudioComponent_6 via property Ship Movement_Sounds, but AudioComponent_6 is pending kill
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:0250
+[2020.05.14-15.11.08:263][363]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_6 via property Ship Movement_Sounds, but AudioComponent_6 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.11.17:512][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.11.19:199][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.11.19:200][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.11.19:247][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-15.11.19:248][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.11.19:344][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.11.19:421][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.05.14-15.11.41:504][662]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.14-15.11.52:237][830]LogSlate: Window 'Save Asset As' being destroyed
+[2020.05.14-15.12.03:663][994]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.14-15.12.05:892][221]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.12.07:953][375]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-15.12.08:068][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.12.08:069][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-15.12.08:069][375]PIE: New page: PIE session: Minimal_Default (14 May 2020 17:12:08)
+[2020.05.14-15.12.08:070][375]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.05.14-15.12.08:085][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015178s)
+[2020.05.14-15.12.08:086][375]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.12.08:086][375]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2020.05.14-15.12.08:086][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016712s)
+[2020.05.14-15.12.08:218][375]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-15.12.08:236][375]LogInit: FAudioDevice initialized.
+[2020.05.14-15.12.08:247][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.12.08:288][375]LogLoad: Game class is 'GameMode'
+[2020.05.14-15.12.08:292][375]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-16.12.08
+[2020.05.14-15.12.08:295][375]LogWorld: Bringing up level for play took: 0.005729
+[2020.05.14-15.12.08:309][375]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.12.08:309][375]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.12.08:309][375]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.12.08:312][375]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello
+[2020.05.14-15.12.08:312][375]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.12.08:319][375]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.513
+[2020.05.14-15.12.08:319][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.12.08:374][375]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2020.05.14-15.12.10:988][484]LogScript: Warning: Accessed None trying to read property Ship Movement_Sounds
+	Ship_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Ship_2
+	Function /Game/IndividualFolders/Cameron_McCabe/Ship.Ship_C:ExecuteUbergraph_Ship:06AB
+[2020.05.14-15.12.10:989][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ship Movement_Sounds". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.12.11:145][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ship Movement_Sounds". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.12.11:826][522]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.12.13:133][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.12.20:580][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.12.30:563][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.12.30:916][334]LogBlueprintUserMessages: [AI8] 280.0
+[2020.05.14-15.12.30:916][334]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_1] Hit
+[2020.05.14-15.12.32:455][404]LogBlueprintUserMessages: [Ship_2] 80.0
+[2020.05.14-15.12.32:455][404]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.12.32:648][412]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.12.32:649][412]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.12.32:822][419]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.12.32:823][419]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.12.32:841][420]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.12.32:842][420]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.12.33:078][427]LogSlate: Window 'Asteroids_2020 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.14-15.12.33:088][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.12.33:130][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-15.12.33:130][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.12.33:282][428]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.05.14-15.12.36:123][641]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-15.12.36:132][641]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-15.12.46:956][580]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.14-15.13.09:145][873]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.14-15.13.34:355][583]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.13.36:614][670]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-15.13.36:692][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.13.36:692][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-15.13.36:693][670]PIE: New page: PIE session: Minimal_Default (14 May 2020 17:13:36)
+[2020.05.14-15.13.36:693][670]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.05.14-15.13.36:707][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013776s)
+[2020.05.14-15.13.36:708][670]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.13.36:708][670]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2020.05.14-15.13.36:708][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015008s)
+[2020.05.14-15.13.36:791][670]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-15.13.36:808][670]LogInit: FAudioDevice initialized.
+[2020.05.14-15.13.36:850][670]LogLoad: Game class is 'GameMode'
+[2020.05.14-15.13.36:855][670]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-16.13.36
+[2020.05.14-15.13.36:857][670]LogWorld: Bringing up level for play took: 0.006311
+[2020.05.14-15.13.36:871][670]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.13.36:871][670]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.13.36:871][670]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.13.36:874][670]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello
+[2020.05.14-15.13.36:874][670]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.13.36:875][670]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.043
+[2020.05.14-15.13.36:875][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.13.38:322][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ship Movement_Sounds". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.13.40:421][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.13.51:577][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.13.51:578][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.13.51:626][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-15.13.51:626][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.13.51:697][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.13.51:756][462]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.05.14-15.14.34:420][696]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.14.41:200][259]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.14.43:762][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-15.14.43:841][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.14.43:841][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-15.14.43:841][396]PIE: New page: PIE session: Minimal_Default (14 May 2020 17:14:43)
+[2020.05.14-15.14.43:842][396]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.05.14-15.14.43:856][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014209s)
+[2020.05.14-15.14.43:857][396]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.14.43:858][396]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2020.05.14-15.14.43:858][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015733s)
+[2020.05.14-15.14.43:977][396]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-15.14.43:995][396]LogInit: FAudioDevice initialized.
+[2020.05.14-15.14.44:025][396]LogLoad: Game class is 'GameMode'
+[2020.05.14-15.14.44:029][396]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-16.14.44
+[2020.05.14-15.14.44:032][396]LogWorld: Bringing up level for play took: 0.005594
+[2020.05.14-15.14.44:045][396]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.14.44:045][396]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.14.44:045][396]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.14.44:048][396]LogBlueprintUserMessages: [Minimal_Default_C_0] Hello
+[2020.05.14-15.14.44:048][396]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.14.44:048][396]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.216
+[2020.05.14-15.14.44:049][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.14.46:121][508]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.14.47:927][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.14.55:021][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.14.59:129][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.14.59:300][227]LogBlueprintUserMessages: [Ship_2] 80.0
+[2020.05.14-15.14.59:300][227]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_0] Hit
+[2020.05.14-15.15.00:553][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.15.00:554][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.15.00:600][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-15.15.00:600][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.15.00:667][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.15.00:718][301]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.05.14-15.15.54:210][393]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Minimal_Default_Auto2E132D0B943659977005A469DEDC9D938.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2020.05.14-15.15.54:221][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.889
+[2020.05.14-15.15.54:221][393]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.889
+[2020.05.14-15.15.54:229][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Tom_Wych/Shop_Collsion] ([1] browsable assets)...
+[2020.05.14-15.15.54:229][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Tom_Wych/Shop_Collsion]
+[2020.05.14-15.15.54:359][393]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Shop_Collsion_Auto282B966114C23CDF6FE5E5F90CA2FD053.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Tom_Wych/Shop_Collsion_Auto2.uasset'
+[2020.05.14-15.15.54:363][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2] ([1] browsable assets)...
+[2020.05.14-15.15.54:363][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2]
+[2020.05.14-15.15.54:652][393]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_2_Auto2549F3CF7481E118EBECBEC8D30D0F13D.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2_Auto2.uasset'
+[2020.05.14-15.15.54:656][393]LogFileHelpers: Auto-saving content packages took 0.428
+[2020.05.14-15.27.29:159][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.106
+[2020.05.14-15.27.29:162][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2] ([1] browsable assets)...
+[2020.05.14-15.27.29:162][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2]
+[2020.05.14-15.27.29:458][607]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_2_Auto38C3D4E9A42EABF65878D7EA563FB248B.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2_Auto3.uasset'
+[2020.05.14-15.27.29:464][607]LogFileHelpers: Auto-saving content packages took 0.303
+[2020.05.14-15.28.21:513][647]BlueprintLog: New page: Compile Select_Instance
+[2020.05.14-15.30.38:471][979]BlueprintLog: New page: Compile Item_Conformation1
+[2020.05.14-15.30.59:973][117]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.31.42:940][228]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.05.14-15.32.11:075][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.32.11:162][841]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-15.32.11:255][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.32.11:256][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-15.32.11:256][841]PIE: New page: PIE session: Minimal_Default (14 May 2020 17:32:11)
+[2020.05.14-15.32.11:258][841]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.05.14-15.32.11:272][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013312s)
+[2020.05.14-15.32.11:273][841]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.14-15.32.11:273][841]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2020.05.14-15.32.11:273][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014533s)
+[2020.05.14-15.32.11:356][841]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.14-15.32.11:373][841]LogInit: FAudioDevice initialized.
+[2020.05.14-15.32.11:407][841]LogLoad: Game class is 'GameMode'
+[2020.05.14-15.32.11:411][841]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.05.14-16.32.11
+[2020.05.14-15.32.11:414][841]LogWorld: Bringing up level for play took: 0.005513
+[2020.05.14-15.32.11:427][841]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.32.11:427][841]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.14-15.32.11:427][841]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.32.11:430][841]LogBlueprintUserMessages: [Minimal_Default_C_1] Hello
+[2020.05.14-15.32.11:430][841]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.14-15.32.11:430][841]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.599
+[2020.05.14-15.32.11:431][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.32.14:765][ 23]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Ship Movement_Sounds, but AudioComponent_0 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.32.17:713][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.32.31:537][929]LogBlueprintUserMessages: [Ship_2] 80.0
+[2020.05.14-15.32.31:537][929]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_0] Hit
+[2020.05.14-15.32.32:122][962]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.32:122][962]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.32:141][963]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.32:142][963]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.32:219][967]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.32:219][967]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.32:298][971]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.32:298][971]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.32:458][979]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.32:458][979]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.32:639][988]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.32:639][988]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.33:154][ 14]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_2 via property Ship Movement_Sounds, but AudioComponent_2 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.32.33:175][ 15]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_2 via property Ship Movement_Sounds, but AudioComponent_2 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.32.33:313][ 22]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.33:314][ 22]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_1] Hit
+[2020.05.14-15.32.33:488][ 31]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.33:488][ 31]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_2] Hit
+[2020.05.14-15.32.36:560][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.32.37:159][217]LogBlueprintUserMessages: [Ship_2] 60.0
+[2020.05.14-15.32.37:160][217]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.37:198][219]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.37:198][219]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.37:215][220]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.37:215][220]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.37:234][221]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.37:234][221]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.37:234][221]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.37:235][221]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.37:522][235]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.37:522][235]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.37:727][245]LogBlueprintUserMessages: [AI7] 280.0
+[2020.05.14-15.32.37:727][245]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_5] Hit
+[2020.05.14-15.32.37:811][249]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_5 via property Ship Movement_Sounds, but AudioComponent_5 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.32.38:287][274]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_5 via property Ship Movement_Sounds, but AudioComponent_5 is pending kill". Blueprint:  Ship Function:  Execute Ubergraph Ship Graph:  EventGraph Node:  Stop
+[2020.05.14-15.32.38:638][292]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.38:638][292]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_6] Hit
+[2020.05.14-15.32.38:942][308]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.38:942][308]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.38:981][310]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.38:981][310]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:021][312]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:021][312]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:042][313]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:042][313]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:042][313]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:043][313]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:063][314]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:063][314]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:063][314]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:063][314]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:082][315]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:082][315]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:082][315]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:082][315]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:104][316]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:104][316]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:104][316]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:104][316]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:125][317]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:126][317]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:126][317]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:126][317]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:149][318]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:149][318]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:149][318]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:149][318]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:172][319]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:172][319]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:223][321]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:223][321]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:223][321]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:224][321]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:248][322]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:248][322]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:248][322]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:248][322]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:411][328]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:411][328]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:411][328]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:411][328]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:440][329]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:440][329]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:440][329]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:440][329]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:443][329]LogBlueprintUserMessages: [AI6_17] 280.0
+[2020.05.14-15.32.39:443][329]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_9] Hit
+[2020.05.14-15.32.39:466][330]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:466][330]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:466][330]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:467][330]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:495][331]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:496][331]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:496][331]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:496][331]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:524][332]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:524][332]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:524][332]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.39:524][332]LogBlueprintUserMessages: [Ship_2] OUCH
+[2020.05.14-15.32.39:744][340]LogBlueprintUserMessages: [AI6_17] 260.0
+[2020.05.14-15.32.39:744][340]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_7] Hit
+[2020.05.14-15.32.44:463][541]LogBlueprintUserMessages: [Ship_2] 40.0
+[2020.05.14-15.32.44:463][541]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_10] Hit
+[2020.05.14-15.32.44:595][548]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.44:595][548]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_11] Hit
+[2020.05.14-15.32.44:615][549]LogBlueprintUserMessages: [Ship_2] No Damage
+[2020.05.14-15.32.44:616][549]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_13] Hit
+[2020.05.14-15.32.45:069][574]LogBlueprintUserMessages: [AI7] 260.0
+[2020.05.14-15.32.45:069][574]LogBlueprintUserMessages: [DJ_BP_EnemyProjectile_C_14] Hit
+[2020.05.14-15.32.45:244][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.32.45:245][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.32.45:302][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-15.32.45:302][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.05.14-15.32.45:383][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-15.32.45:443][586]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.05.14-15.35.37:687][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-15.35.39:657][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-15.35.40:263][725]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Minimal_DefaultA7D6B19A4E4AD369AF1523B9F8EDF03A.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.05.14-15.35.40:400][725]LogFileHelpers: Saving map 'Minimal_Default' took 0.735
+[2020.05.14-15.35.40:492][725]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Select_Instance656548414B345365150291A260427A97.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Dan_Jones/Select_Instance.uasset'
+[2020.05.14-15.35.40:620][725]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Shop_Collsion9399E3934893D331AB289792A41DEF55.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/Shop_Collsion.uasset'
+[2020.05.14-15.35.40:923][725]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_21B13E33D46269057F21EFEA8B95250DE.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2.uasset'
+[2020.05.14-15.35.41:084][725]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Item_Conformation1132D54D14760F3E09E15618E2A400A5C.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/User_Interface/Item_Con/Item_Conformation1.uasset'
+[2020.05.14-15.41.58:912][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (InvisibleFloor)
+[2020.05.14-15.41.59:462][213]LogEditorViewport: Clicking on Actor (LMB): Shop_Collsion_C (Shop_Collsion)
+[2020.05.14-15.43.55:373][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.44.02:583][830]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_Insufficent_Credits.TW_W_Insufficent_Credits
+[2020.05.14-15.48.09:423][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-15.48.14:984][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-15.48.15:814][645]LogSlate: Window 'Item_Conformation1' being destroyed
+[2020.05.14-15.48.15:878][645]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.14-15.48.15:944][645]LogSlate: Window 'Message Log' being destroyed
+[2020.05.14-15.48.15:949][645]LogSlate: Window 'Asteroids_2020 - Unreal Editor' being destroyed
+[2020.05.14-15.48.15:949][645]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.14-15.48.16:261][646]Cmd: QUIT_EDITOR
+[2020.05.14-15.48.16:707][646]LogExit: Preparing to exit.
+[2020.05.14-15.48.17:441][646]LogExit: Editor shut down
+[2020.05.14-15.48.17:441][646]LogExit: Transaction tracking system shut down
+[2020.05.14-15.48.17:812][646]LogExit: Object subsystem successfully closed.
+[2020.05.14-15.48.17:855][646]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.14-15.48.17:861][646]LogD3D11RHI: Shutdown
+[2020.05.14-15.48.17:861][646]LogD3D11RHI: CleanupD3DDevice
+[2020.05.14-15.48.17:864][646]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.14-15.48.17:917][646]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (636)
+[2020.05.14-15.48.17:917][646]LogModuleManager: Shutting down and abandoning module Voice (634)
+[2020.05.14-15.48.17:917][646]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (632)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module SequencerWidgets (630)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2020.05.14-15.48.17:918][646]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2020.05.14-15.48.17:919][646]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2020.05.14-15.48.17:920][646]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2020.05.14-15.48.17:921][646]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2020.05.14-15.48.18:626][646]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2020.05.14-15.48.18:627][646]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2020.05.14-15.48.18:682][646]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2020.05.14-15.48.18:692][646]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2020.05.14-15.48.18:692][646]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2020.05.14-15.48.18:694][646]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2020.05.14-15.48.18:694][646]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2020.05.14-15.48.18:694][646]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2020.05.14-15.48.18:694][646]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2020.05.14-15.48.18:694][646]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.05.14-15.48.18:695][646]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.05.14-15.48.18:699][646]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.05.14-15.48.18:777][646]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.05.14-15.48.18:781][646]LogModuleManager: Shutting down and abandoning module Media (369)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2020.05.14-15.48.18:787][646]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2020.05.14-15.48.18:788][646]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (286)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module ApexDestruction (284)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2020.05.14-15.48.18:789][646]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2020.05.14-15.48.18:890][646]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (276)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (272)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module DataValidation (268)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2020.05.14-15.48.18:991][646]LogModuleManager: Shutting down and abandoning module LevelEditor (265)
+[2020.05.14-15.48.18:992][646]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (264)
+[2020.05.14-15.48.18:992][646]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (262)
+[2020.05.14-15.48.18:993][646]LogModuleManager: Shutting down and abandoning module MainFrame (260)
+[2020.05.14-15.48.18:993][646]LogModuleManager: Shutting down and abandoning module HotReload (259)
+[2020.05.14-15.48.18:993][646]LogModuleManager: Shutting down and abandoning module ContentBrowser (255)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module TreeMap (253)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module AISupportModule (248)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module Paper2D (246)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (244)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (242)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module WmfMedia (240)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.05.14-15.48.18:995][646]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.05.14-15.48.18:996][646]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.05.14-15.48.18:998][646]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.05.14-15.48.18:999][646]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.05.14-15.48.19:094][646]LogDerivedDataCache: Shutdown
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.05.14-15.48.19:094][646]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.05.14-15.48.19:095][646]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.05.14-15.48.19:095][646]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.05.14-15.48.19:095][646]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.05.14-15.48.19:095][646]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.05.14-15.48.19:096][646]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.05.14-15.48.19:096][646]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.14-15.48.19:096][646]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.05.14-15.48.19:096][646]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.05.14-15.48.19:096][646]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.05.14-15.48.19:097][646]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.05.14-15.48.19:097][646]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.05.14-15.48.19:098][646]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.05.14-15.48.19:098][646]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.05.14-15.48.19:107][646]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.05.14-15.48.19:108][646]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.14-15.48.19:108][646]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.05.14-15.48.19:108][646]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.05.14-15.48.19:108][646]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.05.14-15.48.19:108][646]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.05.14-15.48.19:108][646]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.05.14-15.48.19:109][646]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.05.14-15.48.19:109][646]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.05.14-15.48.19:131][646]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.05.14-15.48.19:131][646]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.05.14-15.48.19:131][646]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EF82CAA-4CAC-B7FB-6C9E-76A7CF46A1D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=ccdd56354782f3bffdf5fc86baf82a74%7Ccf24d94b70df4a0ebc96fd7c065d024c%7Cfe43770e-da91-4a69-a8e2-0a56d94163ea&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.14-15.48.19:131][646]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EF82CAA-4CAC-B7FB-6C9E-76A7CF46A1D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=ccdd56354782f3bffdf5fc86baf82a74%7Ccf24d94b70df4a0ebc96fd7c065d024c%7Cfe43770e-da91-4a69-a8e2-0a56d94163ea&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.14-15.48.19:151][646]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.05.14-15.48.19:153][646]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.05.14-15.48.19:153][646]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.05.14-15.48.19:154][646]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.05.14-15.48.19:155][646]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.05.14-15.48.19:155][646]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.05.14-15.48.19:156][646]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.05.14-15.48.19:182][646]LogExit: Exiting.
+[2020.05.14-15.48.19:255][646]Log file closed, 05/14/20 16:48:19
